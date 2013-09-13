@@ -10,3 +10,5 @@ The key to making these work in is the Config.groovy file.  You need to add the 
 
 grails.spring.bean.packages = ['com.bls']
 
+The idea was to keep the bean definitions out of resources.groovy or resources.xml and keep them only in the actual groovy files with the use of the Annotations.
+
