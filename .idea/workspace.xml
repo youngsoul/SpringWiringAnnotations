@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b9b533a-202d-4e89-a33a-4691d27ae62b" name="Default" comment="" />
+    <list default="true" id="2b9b533a-202d-4e89-a33a-4691d27ae62b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SpringWiringAnnotations.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
@@ -10,7 +14,7 @@
     <file path="/MyTestService.groovy" changelist="2b9b533a-202d-4e89-a33a-4691d27ae62b" time="1379090634750" ignored="false" />
     <file path="/MyTestServiceTests.groovy" changelist="2b9b533a-202d-4e89-a33a-4691d27ae62b" time="1379088600993" ignored="false" />
     <file path="/a.dummy" changelist="2b9b533a-202d-4e89-a33a-4691d27ae62b" time="1379088652508" ignored="false" />
-    <file path="/Dummy.txt" changelist="2b9b533a-202d-4e89-a33a-4691d27ae62b" time="1379088667532" ignored="false" />
+    <file path="/Dummy.txt" changelist="2b9b533a-202d-4e89-a33a-4691d27ae62b" time="1379091465226" ignored="false" />
     <file path="/MyTestServiceIntegrationTests.groovy" changelist="2b9b533a-202d-4e89-a33a-4691d27ae62b" time="1379090688769" ignored="false" />
     <file path="/Config.groovy" changelist="2b9b533a-202d-4e89-a33a-4691d27ae62b" time="1379089712203" ignored="false" />
     <file path="/MyTestService2Service.groovy" changelist="2b9b533a-202d-4e89-a33a-4691d27ae62b" time="1379089775730" ignored="false" />
@@ -119,10 +123,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Config.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="0" selection-start="4068" selection-end="4068" vertical-scroll-proportion="0.0">
+            <state line="95" column="41" selection-start="4068" selection-end="4109" vertical-scroll-proportion="0.8224852">
               <folding />
             </state>
           </provider>
@@ -159,10 +163,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="3" selection-start="20" selection-end="20" vertical-scroll-proportion="0.088757396">
+            <state line="3" column="3" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -174,6 +178,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -196,7 +208,7 @@
     <option name="width" value="1430" />
     <option name="height" value="952" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -263,7 +275,7 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="settings.nodejs" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -396,6 +408,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2b9b533a-202d-4e89-a33a-4691d27ae62b" name="Default" comment="" />
@@ -516,13 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="0" selection-start="4068" selection-end="4068" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/services/com/bls/MyTestService.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0">
@@ -566,7 +588,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="3" selection-start="20" selection-end="20" vertical-scroll-proportion="0.088757396">
+        <state line="3" column="3" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="41" selection-start="4068" selection-end="4109" vertical-scroll-proportion="0.8224852">
           <folding />
         </state>
       </provider>
